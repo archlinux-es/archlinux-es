@@ -1,6 +1,6 @@
-baseURL = "https://conf.archlinux.org/"
-languageCode = "en-us"
-title = "Arch Conf"
+baseURL = "https://archlinux-es.github.io/"
+languageCode = "es-ar"
+title = "Arch Linux en Español"
 theme = "arch"
 relativeURLs = true
 
@@ -48,7 +48,7 @@ relativeURLs = true
 
 [[menu.main]]
   Name = "Home"
-  URL = "https://archlinux.org/"
+  URL = "https://archlinux-es.github.io/"
   Title = "Return to the main page"
   weight = -7
 
