@@ -1,19 +1,10 @@
 ---
-title: "About Arch Conf"
-date: 2019-05-26T16:19:54+02:00
+title: "Bienvenidos al sitio de Arch Linux en Español"
+date: 2019-05-26T16:19:54-03:00
 ---
 
-Arch Conf 2019 is a small conference aimed at the Arch Linux team
-([developers](https://www.archlinux.org/people/developers/), [trusted
-users](https://www.archlinux.org/people/trusted-users/) and [support
-staff](https://www.archlinux.org/people/support-staff/)).
+Arch Linux en Español es el sitio de la Comunidad Hispana de Arch Linux, una distribución Linux liviana y flexible que intenta mantener las cosas simples, siguiendo la filosofía KISS (Keep It Simple, Stupid!).
 
-Its purpose is community building and to work on urgent topics, that pose a
-challenge for the distribution and/ or community.
+Originalmente el foro de “Arch Linux en Español“, actualmente desde este espacio intentamos complementar el soporte que da la gran comunidad oficial de Arch Linux en inglés, creando un espacio para los hispano-parlantes que desean intercambiar opiniones y conocimiento en su propio idioma. En este sitio nos encontramos usuarios de Arch Linux de toda América Latina, así como de España.
 
-It will be held on October 5th and 6th at Native Space, Schlesische Straße 30,
-10997 Berlin.
-
-See [travel](../travel/) for travel information and [schedule](../schedule/) for
-the schedule.
-
+Actualmente la distribución cuenta con paquetes oficiales optimizados para las arquitectura x86-64 (amd64) y hay versiones comunitarias para las arquitecturas i686 y ARM. Estos están complementados con un repositorio de paquetes operado por la comunidad (AUR – del inglés “Arch Users Repository”) que crece en tamaño y calidad cada día.
