@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = archlinux-es.github.io
+	url = git@github.com:archlinux-es/archlinux-es.github.io.git
+	branch = master

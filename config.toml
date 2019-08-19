@@ -2,6 +2,7 @@ baseURL = "https://archlinux-es.github.io/"
 languageCode = "es-ar"
 title = "Arch Linux en Español"
 theme = "arch"
+publishDir = "archlinux-es.github.io"
 relativeURLs = true
 
 [[menu.main]]
